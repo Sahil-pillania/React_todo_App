@@ -76,7 +76,8 @@ textarea {
 }
 .MuiButton-root:hover .plus_sign {
   color: #fff;
-  background-color: transparent;
+  background-color: #f5ba13;
+  overflow: hidden;
 }
 .note {
   background: #fff;
