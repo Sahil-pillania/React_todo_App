@@ -71,6 +71,9 @@ textarea {
   z-index: 222;
   background: transparent;
 }
+button:hover {
+  background: #f5ba13;
+}
 .MuiButton-root:hover {
   background-color: #f4b400;
 }
@@ -87,6 +90,7 @@ textarea {
   width: 240px;
   margin: 16px;
   float: left;
+  position: relative;
 }
 .note h1 {
   font-size: 1.1em;
@@ -115,6 +119,9 @@ textarea {
 .deleteIcon {
   width: 0.7em;
   height: 0.7em;
+  /* position: absolute;
+  right: 5px;
+  bottom: 0px; */
 }
 .note .btn:hover {
   background-color: #f5ba13;
