@@ -2,7 +2,7 @@ import React from "react";
 import DeleteForeverIcon from "@mui/icons-material/DeleteForever";
 import { Button } from "@mui/material";
 const Note = (props) => {
-  const deleteNote = () => {
+  const deleteNote = (props) => {
     props.deleteItem(props.id);
   };
 
