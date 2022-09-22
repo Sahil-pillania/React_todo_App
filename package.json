@@ -1,7 +1,7 @@
 {
   "name": "react_todo_app",
   "version": "0.1.0",
-  "homepage": "https://sahil-pillania.github.io/react_todo_app",
+  "homepage": "https://sahil-pillania.github.io/React_todo_App",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.0",
