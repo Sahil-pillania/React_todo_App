@@ -37,7 +37,7 @@ function App() {
             id={index}
             title={val.title}
             content={val.content}
-            deleteItem={onDelete}
+            onDelete={onDelete}
           />
         );
       })}
